@@ -15,7 +15,8 @@ namespace EngEdu
             Console.WriteLine("Year 2560 semester 1, I start my programmer life.");
             Console.WriteLine("Year 2560 semester 2, I know my programmer life.");
             Console.WriteLine("Year 2561 semester 1, I learn to program in C++");
-            Console.WriteLine("Year 2561 semester 1, I understand the C language.");
+            Console.WriteLine("Year 2561 semester 2, I understand the C language.");
+            Console.WriteLine("Year 2562 semester 1, I learn to program in python.");
         }
     }
 }
